@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+[Acessar o Tutorial do Pacote](Tutorial.html)
 
 You can use the [editor on GitHub](https://github.com/thiagoslima21/CFilt/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
