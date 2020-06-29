@@ -1,5 +1,5 @@
 
-![Pacote CFilt](https://github.com/thiagoslima21/CFilt/blob/master/img/simbolo.png) 
+![Pacote CFilt](https://github.com/thiagoslima21/CFilt/img/simbolo.png) 
 
 
 
