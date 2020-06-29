@@ -1,8 +1,7 @@
-<center>
 
 ![Pacote CFilt](https://github.com/thiagoslima21/CFilt/blob/master/simbolo_CFILT-removebg-preview.png) 
 
-</center>
+
 
 
  A recomendação de itens para consumidores na rede de internet se mostra como uma das ferramentas mais importantes no que tange a utilização de plataformas de venda e entretenimento. Como exemplos, podem ser citados: a recomendação de produtos em sites de vendas, como a Amazon; a recomendação de filmes e músicas em serviços streaming, como a Netflix, Spotify e Youtube; e recomendações de contatos sociais no Facebook, Instagram e Twitter.
