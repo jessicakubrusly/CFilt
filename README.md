@@ -8,4 +8,6 @@
 
 [Comunicar Erros de Utilização do Pacote](https://github.com/thiagoslima21/CFilt/issues/new/choose)
 
+Email de contato: thiagoaugusto@id.uff.br
+
 
